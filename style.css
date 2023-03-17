@@ -1,0 +1,32 @@
+body{
+    background-image: url(pexels-pixabay-531880.jpg);
+    /* background-color: rgb(203, 84, 134); */
+}
+.stopwatch{
+    text-align: center;
+    margin-top: 110px;
+    color: #000;
+    
+}
+h1{
+    font-size: 3rem;
+    padding-left: 20px;
+}
+.start{
+    margin-right: 2%;
+
+}
+.stop{
+    margin-right: 2%;
+}
+.btn{
+    width: 15%;
+}
+.timerDisplay{
+    font-size: 4rem;
+    margin: 2% 0;
+}
+p{
+    margin-top: 5%;
+    color: #fff;
+}
